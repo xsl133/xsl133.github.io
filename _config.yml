@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Math porter"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "数学搬运工"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "我们不是天才，也未曾摘得菲尔兹奖。我们是 Math Porters（数学搬运工）。数学是一座古老而巍峨的大山，我们不占有它，我们只是用双脚丈量它。我们负责把晦涩的公式搬运成常人能懂的语言，把沉重的难题扛在肩上一起攻克。在这里，不拼天赋，只致敬每一位在数学之路上负重前行的赶路人。"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
