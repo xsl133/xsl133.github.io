@@ -1,0 +1,10 @@
+baseURL = 'https://xsl133.github.io/'
+locale = 'zh-cn'
+title = ' Math Porter Blog'
+
+
+theme = 'PaperMod'
+
+[params]
+  math = true        # 开启 KaTeX 数学公式支持
+  defaultTheme = 'auto'  # 自动切换深色/浅色模式

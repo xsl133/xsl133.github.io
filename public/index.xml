@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title> Math Porter Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on  Math Porter Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;p&gt;&amp;mdash; title: &amp;ldquo;测试文章&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;date: 2026-09-17&lt;/p&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;p&gt;&amp;mdash; 这是第一篇测试文章！&lt;/p&gt;
+&lt;h2 id=&#34;数学公式测试-行内公式e--mc2&#34;&gt;数学公式测试 行内公式：$E = mc^2$&lt;/h2&gt;
+&lt;p&gt;块级公式： $$ \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi} $$&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
