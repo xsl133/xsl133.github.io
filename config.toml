@@ -1,0 +1,4 @@
+baseURL = "https://xsl133.github.io/"
+languageCode = "zh-CN"
+title = "My Math Blog"
+theme = "ananke"  # 这里先写一个默认主题，如果你没下主题可能会报错，但至少能跑通流程
